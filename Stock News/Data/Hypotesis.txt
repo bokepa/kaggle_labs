@@ -1,0 +1,30 @@
+
+
+TEORIA
+1. EL MARKET DATA de los ultimos 10 dias da una visión de anàlisis tècnico, hasta un nivel X de correlación.
+2. Las NEWS DATA pueden complementar la precisión del análisis tècnico.
+
+ASEVERACIONES
+
+- Las noticias sobre una compañia/valor pueden ser buenas, malas o neutras.
+	KEYWORDS (NEWS)
+	
+	
+- Las noticias pueden anunciar algo a futuro, describir algo que ya ha pasado pero no está reflejado en el mercado, o describir cómo está evolucionando el mercado.
+
+- Las noticias pueden mover el mercado con un tiempo de decalaje
+
+
+6. Hay noticias más generalistas (hablan de varios valores) o más específicas.
+	NUMBER_OF_ASSETS (NEW)
+
+7. Hay noticias que provienen de otras noticias. La primera es la que tiene más valor.
+
+8. Correlacion VOLUMEN - NOTICIA
+
+
+CLASIFICADORES
+	LONGITUD NOTICIA - LARGA, MEDIA, CORTA
+	LONG_NOTICIA / NUM_VALORES - LARGA, MEDIA, CORTA
+	
+

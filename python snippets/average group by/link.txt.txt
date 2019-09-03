@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/30328646/python-pandas-group-by-in-group-by-and-average
